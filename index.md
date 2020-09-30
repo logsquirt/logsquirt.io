@@ -9,7 +9,7 @@ You deserve the most.
 ## Included with purchase! Free garbage collection service
 
 ```console
-$ cat logsquirt.io > /dev/null
+$ cat ./yourlogs/ > /dev/null
 ```
 
 ## Opaque pricing model keeps you on your toes
