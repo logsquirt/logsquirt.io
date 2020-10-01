@@ -14,6 +14,10 @@ $ cat squirt.log > /dev/null
 
 ## Opaque pricing model keeps you on your toes
 
+- Guaranteed to require consulting contract
+- Inspired by your favourite cloud provider
+- ML-generated pricing per KB using `n+1`
+
 ## Logsquirt Enterprise Edition Features
 
 ### Use our patented AI to generate:
