@@ -14,4 +14,12 @@ $ cat squirt.log > /dev/null
 
 ## Opaque pricing model keeps you on your toes
 
+## Logsquirt Enterprise Edition Features
+
+### Use our patented AI to generate:
+
+- Ted Talks
+- Techbro tweets
+- Cryptocurrency blog posts
+
 How exciting!
